@@ -1,0 +1,9 @@
+{
+  "mae_minutes": 3.5579,
+  "rmse_minutes": 5.0316,
+  "r2_score": 0.3137,
+  "median_ae_minutes": 2.659,
+  "within_2min_pct": 39.4,
+  "within_5min_pct": 77.6,
+  "n_test_samples": 54293
+}

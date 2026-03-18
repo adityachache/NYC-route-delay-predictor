@@ -1,0 +1,21 @@
+# Core ML
+xgboost>=2.0
+scikit-learn>=1.4
+shap>=0.45
+
+# Data
+pandas>=2.2
+numpy>=1.26
+requests>=2.31
+python-dotenv>=1.0
+
+# LLM
+google-genai>=1.0
+
+# Dashboard
+streamlit>=1.33
+plotly>=5.20
+
+# Dev / notebooks
+jupyter>=1.0
+ipykernel>=6.29
