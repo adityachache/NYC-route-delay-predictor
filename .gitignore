@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+.env                        
+data/raw/*.csv              # large — exclude
+data/processed/*.parquet    # large — exclude
+__pycache__/
+*.pyc
+.DS_Store
+/data
